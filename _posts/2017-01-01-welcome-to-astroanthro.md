@@ -3,11 +3,13 @@ layout: post
 title: "Welcome to Astroanthro"
 author: "Jarita Holbrook"
 categories: posts 
-tags: [astroanthro, posts]
+tags: [posts]
 image: hubble-img.jpg
 ---
 
-Welcome to Astroanthro! All we have to do now is to start making modifications to the .md (markdown files) and they will be sync'ed with the server automagically!
+Welcome to Astroanthro! 
+
+All we have to do now is to start making modifications to the .md (markdown files) and they will be sync'ed with the server automagically after 'X' minutes (tbd by us).
 
 ## Getting Started
 
