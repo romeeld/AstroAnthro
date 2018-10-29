@@ -3,8 +3,8 @@ layout: post
 title: "About AstroAnthro.org"
 author: "Jarita Holbrook"
 categories: about
-tags: [sample]
+tags: [about]
 image: hubble-img.jpg
 ---
 
-Welcome to Astroanthro.org, an anthropological inquiry into the field of astronomy!
+Welcome to Astroanthro.org, an anthropological inquiry into the field of astronomy. In this website you will find the video collection of the AstroAnthro research team, plus all the research materials, such as publications, bibliography, images, etc.
