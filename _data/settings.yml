@@ -16,9 +16,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/astroanthro'}
-- {icon: 'facebook', link: 'https://www.facebook.com/astroanthro'}
+#- {icon: 'facebook', link: 'https://www.facebook.com/astroanthro'}
 #- {icon: 'instagram', link: 'https://instagram.com/astroanthro'}
-- {icon: 'envelope', link: 'mailto:astroholbrook@gmail.com'}
+- {icon: 'envelope', link: 'mailto:thesciencetourist@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
