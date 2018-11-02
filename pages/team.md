@@ -11,11 +11,11 @@ The Astronomy & Society group is based in the Physics & Astronomy Department at 
 
 ### Project Lead
 
-Jarita Holbrook
+<a href="http://astro.uwc.ac.za/our_team/holbrook/">Jarita Holbrook</a>
 
 ## EAGER Project
 
 The EAGER project is based in the Gender Studies Department at the University of California, Los Angeles. The project is jointly lead by Sharon Traweek and Jarita Holbrook. This project funded by <a href="
 
 ### Project Lead
-Sharon Traweek & Jarita Holbrook
+<a href="http://www.genderstudies.ucla.edu/faculty/sharon-traweek">Sharon Traweek</a> & Jarita Holbrook
