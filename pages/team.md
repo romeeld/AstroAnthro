@@ -12,7 +12,7 @@ The Astronomy & Society group is based in the Physics & Astronomy Department at 
 <a href="http://astro.uwc.ac.za/our_team/holbrook/">Jarita Holbrook</a>
 
 ### Past and Current Team Members
-Thembilihle Bongwana, Rodwell Ndlovu, Tshawekazi Sinako Mgudlwa, Angelica Nkomombini, 
+Thembilihle Bongwana, Rodwell Ndlovu, Tshawekazi Sinako Mgudlwa, Angelica Nkomombini, Kanya Bizo
 
 ## Women and Minority Astronomers Strategic Engagement with Distributed, Multi-Disciplinary Collaborations and Large Scale Databases
 The project is based in the <a href="http://www.genderstudies.ucla.edu">Gender Studies</a> Department at the University of California, Los Angeles. The project is jointly lead by Sharon Traweek and Jarita Holbrook. Using ethnographic interviews with scientists involved with data-driven astrophysics, we explored the strategies that the underrepresented undertake to craft their careers. The most recent article <a href="https://www.americanscientist.org/article/reaching-for-the-stars-without-an-invitation">"Reaching for the Stars without an Invitation"</a> appeared in American Scientist. This project was funded by NSF grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=0956589">0956589</a>
