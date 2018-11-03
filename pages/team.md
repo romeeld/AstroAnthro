@@ -12,6 +12,8 @@ The Astronomy & Society group is based in the Physics & Astronomy Department at 
 ### Project Lead
 
 <a href="http://astro.uwc.ac.za/our_team/holbrook/">Jarita Holbrook</a>
+###Past and Current Team Members
+Thembilihle Bongwana, Rodwell Ndlovu, Tshawekazi Sinako Mgudlwa, Angelica Nkomombini, 
 
 ## Women and Minority Astronomers Strategic Engagement with Distributed, Multi-Disciplinary Collaborations and Large Scale Databases
 
