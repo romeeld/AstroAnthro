@@ -7,7 +7,7 @@ disqus:
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Team', folder: 'pages', file: 'team.md'}
+- {name: 'Team', folder: 'pages', file: 'team.html'}
 - {name: 'Posts', folder: 'pages', file: 'posts.html'}
 - {name: 'Articles', folder: 'pages', file: 'resources.html'}
 - {name: 'Videos', folder: 'pages', file: 'videos.html'}
