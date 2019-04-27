@@ -2,10 +2,13 @@
 layout: page
 title: Science Tourist 
 ---
-<html>
-  <body>
-<img src="https://github.com/romeeld/AstroAnthro/blob/master/assets/img/IMG_1854.JPG" width="600" height="400">
-<img src="./assets/img/IMG_1854.JPG" width="600" height="400">
+{% for post in site.categories.sample %}
+  <a href="{{ site.github.url }}{{ post.url }}">
+    <div class="featured-posts" {% if post.image %} style="background-image:url({{ site.github.url }}/assets/img/img_1854.jpg)"{% endif %}>
+      <h2><span>{{ post.title }}</span></h2>
+    </div>
+  </a>
+{% endfor %}
 
 <h1> Science Tourist </h1>
 
@@ -26,5 +29,4 @@ You can see our explorations of Edinburgh, United Kingdom, Washington D.C., USA,
 <a href="https://twitter.com/science_tourist?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @science_tourist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Our episodes are found on the series YouTube Channel <a href="https://www.youtube.com/channel/UCvR_8tSJ-UoonGUMvUOvn7w">https://www.youtube.com/channel/UCvR_8tSJ-UoonGUMvUOvn7w?view_as=subscriber</a>
-</body>
-</html?
+
