@@ -3,6 +3,8 @@ layout: misc
 title: About AstroAnthro
 ---
 
+![UWC Logo](../assets/img/uwc-logo-4.jpg)
+
 Welcome to AstroAnthro! We are an interdisciplinary group studying the field of astronomy, astronomers, cultural astronomy, and indigenous astronomy. For our research we use data collection techniques, theories, and analysis from anthropology, science & technology studies, indigenous studies, history, and folklore. 
 
 The Astronomy & Society group is based at the <a href="http://uwc.ac.za">University of the Western Cape</a>. Jarita Holbrook leads the group. The EAGER group is based at the University of California, Los Angeles. Sharon Traweek leads the group with Jarita Holbrook. The South African Oral History Project is a joint University of the Western Cape and the University of South Africa project. Lerothodi Leeuw and Jarita Holbrook lead the project.  
