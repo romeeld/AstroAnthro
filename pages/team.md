@@ -4,7 +4,7 @@ title: Team
 ---
 
 
-*AstroAnthro Team Members*
+<h1>AstroAnthro Team Members</h1>
 
 <h2>Astronomy & Society</h2>
 
